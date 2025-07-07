@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Varrahan Uthayan
 
-**Computer Systems Engineering student** at Carleton University
+I'm a **Computer Systems Engineering student** at Carleton University.
+
+Feel free to explore my repositories to see the projects I’m passionate about and actively working on.  
+I’m always open to connecting and collaborating, so don’t hesitate to reach out on social media!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varrahan-uthayan-578941291/)
 [![Gmail](https://img.shields.io/badge/Gmail-varrahan@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:varrahan@gmail.com)
@@ -71,7 +74,3 @@ My interests include:
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=atlassian-confluence&logoColor=white)](https://your-company.atlassian.net/wiki/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/yourrepo)
-
-
-Feel free to explore my repositories to see the projects I’m passionate about and actively working on.  
-I’m always open to connecting and collaborating, so don’t hesitate to reach out on social media!
