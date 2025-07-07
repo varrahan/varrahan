@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Varrahan Uthayan
 
-🎓 **Computer Systems Engineering student** at Carleton University
+**Computer Systems Engineering student** at Carleton University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varrahan-uthayan-578941291/)
 [![Gmail](https://img.shields.io/badge/Gmail-varrahan@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:varrahan@gmail.com)
