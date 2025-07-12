@@ -72,3 +72,7 @@ My interests include:
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=atlassian-confluence&logoColor=white)](https://your-company.atlassian.net/wiki/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername/yourrepo)
+![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white)
+
+
+
