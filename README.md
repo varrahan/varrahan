@@ -16,7 +16,7 @@ I'm passionate about building reliable, scalable systems that bridge the gap bet
 My interests include:
 - Developing RESTful services and microservices in the cloud
 - Exploring AI & machine learning models and deploying them to production
-- Combining data engineering, backend development, and cloud-native solutions to create impactful projects
+- Combining data engineering, backend development, AI integrations, and cloud-native solutions to create impactful projects
 
 
 # 💻 Tech Stack
