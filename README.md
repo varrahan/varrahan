@@ -15,7 +15,6 @@ I’m always open to connecting and collaborating, so don’t hesitate to reach 
 I'm passionate about building reliable, scalable systems that bridge the gap between **cloud infrastructure** and **AI-powered applications**.  
 My interests include:
 - Developing RESTful services and microservices in the cloud
-- Exploring AI & machine learning models and deploying them to production
 - Combining HPC, AI integrations, and cloud-native solutions to create impactful projects
 
 
