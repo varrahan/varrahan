@@ -12,10 +12,11 @@ I’m always open to connecting and collaborating, so don’t hesitate to reach 
 
 # 🧩 About Me
 
-I'm passionate about building reliable, scalable systems that bridge the gap between **cloud infrastructure** and **AI-powered applications**.  
+I'm passionate about building all things distributed systems, from anomaly detection to cluster management  
 My interests include:
-- Developing RESTful services and microservices in the cloud
-- Combining HPC, AI integrations, and cloud-native solutions to create impactful projects
+- Developing distributed systems on physical servers and in the cloud
+- Observing potential threats to existing services
+- Playing Minecraft
 
 
 # 💻 Tech Stack
