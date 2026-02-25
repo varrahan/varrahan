@@ -16,7 +16,7 @@ I'm passionate about building all things distributed systems, from anomaly detec
 My interests include:
 - Developing distributed systems on physical servers and in the cloud
 - Observing potential threats to existing services
-- Playing Minecraft
+- Reading everything, from research papers to ingredient lists on the back of Gatorade bottles
 
 
 # 💻 Tech Stack
