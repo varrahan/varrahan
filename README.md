@@ -15,7 +15,7 @@ I’m always open to connecting and collaborating, so don’t hesitate to reach 
 I'm passionate about building all things distributed systems, from anomaly detection to cluster management  
 My interests include:
 - Developing distributed systems on physical servers and in the cloud
-- Observing potential threats to existing services
+- Low-level shenanigans
 - Reading everything, from research papers to ingredient lists on the back of Gatorade bottles
 
 
