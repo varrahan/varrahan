@@ -5,7 +5,7 @@ I'm a **Computer Systems Engineering student** at Carleton University.
 Feel free to explore my repositories to see the projects I’m passionate about and actively working on.  
 I’m always open to connecting and collaborating, so don’t hesitate to reach out on social media!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varrahan-uthayan-578941291/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varrahan/)
 [![Gmail](https://img.shields.io/badge/Gmail-varrahan@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:varrahan@gmail.com)
 
 ---
