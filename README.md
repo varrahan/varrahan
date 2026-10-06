@@ -12,8 +12,9 @@ I’m always open to connecting and collaborating, so don’t hesitate to reach 
 
 # 🧩 About Me
 
-I'm passionate about building all things distributed systems, from anomaly detection to cluster management  
+I'm passionate about the RTL-to-GDSII flow, Electronic Design Automation (EDA), and hardware acceleration 
 My interests include:
+- Designing software for PD, spanning from macro placers to sign-off agents
 - Low-level shenanigans, designing hardware accelerators, and building algorithms for PD
 - Reading everything, from research papers to ingredient lists on the back of Gatorade bottles
 
