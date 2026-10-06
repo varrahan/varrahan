@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Varrahan Uthayan
 
-I'm a **Computer Systems Engineering student** at Carleton University.
+I'm a **Physical Design Engineer** at Hitachi Rail.
 
 Feel free to explore my repositories to see the projects I’m passionate about and actively working on.  
 I’m always open to connecting and collaborating, so don’t hesitate to reach out on social media!
@@ -14,8 +14,7 @@ I’m always open to connecting and collaborating, so don’t hesitate to reach 
 
 I'm passionate about building all things distributed systems, from anomaly detection to cluster management  
 My interests include:
-- Developing distributed systems on physical servers and in the cloud
-- Low-level shenanigans, hardware accelerators, and other fun things
+- Low-level shenanigans, designing hardware accelerators, and building algorithms for PD
 - Reading everything, from research papers to ingredient lists on the back of Gatorade bottles
 
 
